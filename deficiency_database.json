@@ -1,0 +1,35 @@
+{
+    "fatigue and weakness": {
+      "deficiencies": ["Iron", "Vitamin B12", "Vitamin D"],
+      "foods": ["Spinach", "Eggs", "Mushrooms", "Salmon"]
+    },
+    "anemia": {
+      "deficiencies": ["Iron", "Vitamin B12", "Folate"],
+      "foods": ["Red meat", "Lentils", "Leafy greens", "Fortified cereals"]
+    },
+    "skin problems": {
+      "deficiencies": ["Zinc", "Vitamin C", "Vitamin A"],
+      "foods": ["Citrus fruits", "Carrots", "Nuts", "Seeds"]
+    },
+    "hair loss and brittle nails": {
+      "deficiencies": ["Biotin", "Iron", "Zinc"],
+      "foods": ["Eggs", "Sweet potatoes", "Oysters", "Spinach"]
+    },
+    "vision problems": {
+      "deficiencies": ["Vitamin A", "Zinc"],
+      "foods": ["Carrots", "Sweet potatoes", "Pumpkin", "Egg yolk"]
+    },
+    "mental health issues": {
+      "deficiencies": ["Vitamin D", "Omega-3 fatty acids", "Vitamin B6"],
+      "foods": ["Fatty fish", "Walnuts", "Bananas", "Eggs"]
+    },
+    "bone pain": {
+      "deficiencies": ["Vitamin D", "Calcium"],
+      "foods": ["Milk", "Cheese", "Yogurt", "Sardines"]
+    },
+    "burning sensation in feet or tongue": {
+      "deficiencies": ["Vitamin B12", "Vitamin B6"],
+      "foods": ["Fish", "Chicken", "Bananas", "Potatoes"]
+    }
+  }
+  

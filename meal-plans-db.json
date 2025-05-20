@@ -1,0 +1,1695 @@
+{
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "name": "Greek Yogurt Power Bowl",
+      "calories": 450,
+      "nutritional_values": {
+        "protein": 30,
+        "carbohydrates": 45,
+        "fat": 15,
+        "fiber": 7
+      },
+      "ingredients": [
+        {"name": "Greek yogurt", "amount": "200g"},
+        {"name": "Mixed berries", "amount": "100g"},
+        {"name": "Rolled oats", "amount": "40g"},
+        {"name": "Honey", "amount": "10g"},
+        {"name": "Chia seeds", "amount": "10g"},
+        {"name": "Walnuts", "amount": "15g"}
+      ],
+      "instructions": "Add Greek yogurt to a bowl. Top with rolled oats, mixed berries, chia seeds, and walnuts. Drizzle with honey."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Masala Dosa",
+      "calories": 330,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 47,
+        "fat": 12,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Urad Dal", "amount": "1/4 cup" },
+        { "name": "Potatoes", "amount": "2 medium" },
+        { "name": "Onion", "amount": "1 medium" },
+        { "name": "Green Chillies", "amount": "2" },
+        { "name": "Mustard Seeds", "amount": "1 tsp" },
+        { "name": "Turmeric Powder", "amount": "1/2 tsp" },
+        { "name": "Oil", "amount": "2 tbsp" }
+      ],
+      "instructions": "Ferment rice and urad dal batter. Make potato filling with spices. Spread batter on hot griddle and add filling. Fold and serve with chutney."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Rava Upma",
+      "calories": 250,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 36,
+        "fat": 10,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Semolina (Rava)", "amount": "1 cup" },
+        { "name": "Onion", "amount": "1 small" },
+        { "name": "Green Chillies", "amount": "2" },
+        { "name": "Mustard Seeds", "amount": "1 tsp" },
+        { "name": "Urad Dal", "amount": "1 tsp" },
+        { "name": "Curry Leaves", "amount": "1 sprig" },
+        { "name": "Ghee", "amount": "1 tbsp" },
+        { "name": "Water", "amount": "2 cups" }
+      ],
+      "instructions": "Roast semolina lightly. Temper mustard seeds and urad dal in ghee, add vegetables, then semolina. Add water, mix well, and cook until absorbed."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Pongal",
+      "calories": 340,
+      "nutritional_values": {
+        "protein": 12,
+        "carbohydrates": 52,
+        "fat": 9,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Moong Dal", "amount": "1/2 cup" },
+        { "name": "Ghee", "amount": "2 tbsp" },
+        { "name": "Cumin Seeds", "amount": "1 tsp" },
+        { "name": "Black Pepper", "amount": "1 tsp" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Curry Leaves", "amount": "1 sprig" },
+        { "name": "Cashews", "amount": "10" }
+      ],
+      "instructions": "Cook rice and moong dal together. Temper with cumin, pepper, ginger, and curry leaves in ghee. Mix well and garnish with cashews."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Medu Vada",
+      "calories": 280,
+      "nutritional_values": {
+        "protein": 14,
+        "carbohydrates": 28,
+        "fat": 14,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Urad Dal", "amount": "1 cup" },
+        { "name": "Green Chillies", "amount": "3" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Curry Leaves", "amount": "1 sprig" },
+        { "name": "Black Pepper", "amount": "1 tsp" },
+        { "name": "Cumin Seeds", "amount": "1 tsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Soak and grind urad dal to a fluffy batter. Add spices and herbs. Shape into doughnuts and deep fry until golden brown. Serve with coconut chutney and sambar."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Uttapam",
+      "calories": 290,
+      "nutritional_values": {
+        "protein": 9,
+        "carbohydrates": 42,
+        "fat": 10,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "2 cups" },
+        { "name": "Urad Dal", "amount": "1/2 cup" },
+        { "name": "Onion", "amount": "1 medium" },
+        { "name": "Tomato", "amount": "1 medium" },
+        { "name": "Green Chillies", "amount": "2" },
+        { "name": "Carrot", "amount": "1 small" },
+        { "name": "Coriander Leaves", "amount": "2 tbsp" },
+        { "name": "Oil", "amount": "1 tbsp" }
+      ],
+      "instructions": "Ferment rice and urad dal batter. Pour on hot griddle, top with chopped vegetables, drizzle oil, and cook until golden. Serve with chutney."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Appam",
+      "calories": 220,
+      "nutritional_values": {
+        "protein": 4,
+        "carbohydrates": 36,
+        "fat": 7,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "2 cups" },
+        { "name": "Fresh Grated Coconut", "amount": "1/2 cup" },
+        { "name": "Cooked Rice", "amount": "2 tbsp" },
+        { "name": "Sugar", "amount": "1 tsp" },
+        { "name": "Salt", "amount": "to taste" },
+        { "name": "Coconut Oil", "amount": "for greasing" }
+      ],
+      "instructions": "Soak rice, grind with coconut and cooked rice. Ferment overnight. Cook in an appam pan to get lacy edges and soft center. Serve with vegetable stew."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Puttu",
+      "calories": 280,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 58,
+        "fat": 2,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Rice Flour", "amount": "2 cups" },
+        { "name": "Fresh Grated Coconut", "amount": "1 cup" },
+        { "name": "Water", "amount": "1 cup" },
+        { "name": "Salt", "amount": "to taste" }
+      ],
+      "instructions": "Sprinkle water on rice flour and mix to crumbly texture. Layer with grated coconut in puttu maker. Steam until cooked. Serve with banana or kadala curry."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Pesarattu",
+      "calories": 260,
+      "nutritional_values": {
+        "protein": 15,
+        "carbohydrates": 40,
+        "fat": 5,
+        "fiber": 8
+      },
+      "ingredients": [
+        { "name": "Green Moong Dal", "amount": "1 cup" },
+        { "name": "Rice", "amount": "2 tbsp" },
+        { "name": "Green Chillies", "amount": "3" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Cumin Seeds", "amount": "1 tsp" },
+        { "name": "Onion", "amount": "1 medium" },
+        { "name": "Oil", "amount": "2 tsp" }
+      ],
+      "instructions": "Soak moong dal and rice. Grind with spices. Make thin dosas on hot griddle. Serve with ginger chutney or upma."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Kambu Dosai",
+      "calories": 300,
+      "nutritional_values": {
+        "protein": 7,
+        "carbohydrates": 40,
+        "fat": 8,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Kambu (Pearl millet) flour", "amount": "1 cup" },
+        { "name": "Urad dal", "amount": "1/4 cup" },
+        { "name": "Salt", "amount": "to taste" }
+      ],
+      "instructions": "Ferment kambu and urad batter, make dosas on hot tawa."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Ragi Kali",
+      "calories": 350,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 60,
+        "fat": 2,
+        "fiber": 8
+      },
+      "ingredients": [
+        { "name": "Ragi flour", "amount": "1 cup" },
+        { "name": "Water", "amount": "2 cups" },
+        { "name": "Salt", "amount": "to taste" }
+      ],
+      "instructions": "Cook ragi flour in boiling water, stir till thick and form into balls."
+    },
+    
+    {
+      "meal_type": "breakfast",
+      "name": "Spinach and Mushroom Omelette",
+      "calories": 350,
+      "nutritional_values": {
+        "protein": 25,
+        "carbohydrates": 10,
+        "fat": 25,
+        "fiber": 3
+      },
+      "ingredients": [
+        {"name": "Eggs", "amount": "3 large"},
+        {"name": "Spinach", "amount": "50g"},
+        {"name": "Mushrooms", "amount": "50g"},
+        {"name": "Olive oil", "amount": "5ml"},
+        {"name": "Feta cheese", "amount": "20g"},
+        {"name": "Salt and pepper", "amount": "to taste"}
+      ],
+      "instructions": "Heat olive oil in a pan. Sauté mushrooms until golden. Add spinach until wilted. Beat eggs with salt and pepper, then pour over vegetables. Cook until set, top with crumbled feta."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Idli with Sambar",
+      "calories": 300,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 50,
+        "fat": 5,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Idli batter", "amount": "1 cup" },
+        { "name": "Sambar", "amount": "1 cup" }
+      ],
+      "instructions": "Steam the idlis and serve hot with sambar."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Poha",
+      "calories": 250,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 40,
+        "fat": 8,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Flattened rice (poha)", "amount": "1 cup" },
+        { "name": "Onions", "amount": "1/4 cup" },
+        { "name": "Peanuts", "amount": "2 tbsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" }
+      ],
+      "instructions": "Sauté mustard seeds, onions, peanuts. Add rinsed poha and cook."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Greek Yogurt Parfait",
+      "calories": 250,
+      "nutritional_values": {
+        "protein": 12,
+        "carbohydrates": 30,
+        "fat": 5,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Greek yogurt", "amount": "1 cup" },
+        { "name": "Mixed berries", "amount": "1/2 cup" },
+        { "name": "Granola", "amount": "1/4 cup" }
+      ],
+      "instructions": "Layer yogurt, berries, and granola in a glass. Serve chilled."
+    },
+    {
+      "meal_type": "breakfast",
+      "name": "Oatmeal with Fruits",
+      "calories": 320,
+      "nutritional_values": {
+        "protein": 10,
+        "carbohydrates": 45,
+        "fat": 8,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Oats", "amount": "1/2 cup" },
+        { "name": "Milk", "amount": "1 cup" },
+        { "name": "Banana", "amount": "1 small" },
+        { "name": "Honey", "amount": "1 tsp" }
+      ],
+      "instructions": "Cook oats in milk. Top with sliced banana and drizzle honey."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Rajma Chawal",
+      "calories": 520,
+      "nutritional_values": {
+        "protein": 18,
+        "carbohydrates": 70,
+        "fat": 15,
+        "fiber": 12
+      },
+      "ingredients": [
+        { "name": "Rajma (Kidney beans)", "amount": "1 cup cooked" },
+        { "name": "Rice", "amount": "1 cup cooked" },
+        { "name": "Onions", "amount": "1/2 cup" },
+        { "name": "Tomatoes", "amount": "1/2 cup" }
+      ],
+      "instructions": "Cook rajma with onion-tomato masala. Serve hot with rice."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Vegetable Biryani",
+      "calories": 600,
+      "nutritional_values": {
+        "protein": 12,
+        "carbohydrates": 65,
+        "fat": 20,
+        "fiber": 8
+      },
+      "ingredients": [
+        { "name": "Basmati rice", "amount": "1 cup" },
+        { "name": "Mixed vegetables", "amount": "1 cup" },
+        { "name": "Yogurt", "amount": "2 tbsp" },
+        { "name": "Biryani masala", "amount": "2 tsp" }
+      ],
+      "instructions": "Cook rice and vegetables with biryani masala and yogurt."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Grilled Chicken Salad",
+      "calories": 450,
+      "nutritional_values": {
+        "protein": 30,
+        "carbohydrates": 20,
+        "fat": 20,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Chicken breast", "amount": "150g" },
+        { "name": "Mixed greens", "amount": "1 cup" },
+        { "name": "Cherry tomatoes", "amount": "1/2 cup" },
+        { "name": "Olive oil", "amount": "1 tbsp" }
+      ],
+      "instructions": "Grill the chicken and slice. Toss greens and tomatoes with olive oil, top with chicken."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Chettinad Chicken Curry with Appam",
+      "calories": 580,
+      "nutritional_values": {
+        "protein": 38,
+        "carbohydrates": 45,
+        "fat": 28,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Chicken", "amount": "500g" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Tomatoes", "amount": "2 medium" },
+        { "name": "Coconut milk", "amount": "1 cup" },
+        { "name": "Chettinad masala", "amount": "2 tbsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Ginger-garlic paste", "amount": "2 tbsp" },
+        { "name": "Oil", "amount": "3 tbsp" },
+        { "name": "Rice flour", "amount": "1 cup (for appam)" },
+        { "name": "Coconut", "amount": "1/2 cup grated (for appam)" }
+      ],
+      "instructions": "Marinate chicken with spices. Sauté onions, add ginger-garlic paste, tomatoes, and marinated chicken. Add coconut milk and simmer. Serve with freshly made appams."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Sambar Rice (Sambar Saadham)",
+      "calories": 410,
+      "nutritional_values": {
+        "protein": 12,
+        "carbohydrates": 68,
+        "fat": 10,
+        "fiber": 8
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Toor dal", "amount": "1/2 cup" },
+        { "name": "Mixed vegetables", "amount": "1 cup" },
+        { "name": "Tamarind paste", "amount": "1 tbsp" },
+        { "name": "Sambar powder", "amount": "2 tbsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Oil", "amount": "2 tbsp" }
+      ],
+      "instructions": "Cook rice and toor dal separately. Prepare sambar with vegetables and tamarind. Mix cooked rice and sambar. Season with mustard seeds and curry leaves tempered in oil."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Avial with Kerala Rice",
+      "calories": 380,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 65,
+        "fat": 12,
+        "fiber": 9
+      },
+      "ingredients": [
+        { "name": "Mixed vegetables", "amount": "2 cups" },
+        { "name": "Yogurt", "amount": "1/2 cup" },
+        { "name": "Grated coconut", "amount": "1/2 cup" },
+        { "name": "Green chilies", "amount": "3-4" },
+        { "name": "Cumin seeds", "amount": "1 tsp" },
+        { "name": "Turmeric powder", "amount": "1/2 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Coconut oil", "amount": "2 tbsp" },
+        { "name": "Kerala rice", "amount": "1 cup" }
+      ],
+      "instructions": "Cook vegetables with turmeric. Grind coconut, green chilies, and cumin to a paste. Mix with vegetables. Add beaten yogurt and curry leaves. Drizzle coconut oil on top. Serve with Kerala rice."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Pav Bhaji",
+      "calories": 450,
+      "nutritional_values": {
+        "protein": 10,
+        "carbohydrates": 62,
+        "fat": 20,
+        "fiber": 8
+      },
+      "ingredients": [
+        { "name": "Mixed vegetables", "amount": "2 cups" },
+        { "name": "Potatoes", "amount": "2 medium" },
+        { "name": "Pav bhaji masala", "amount": "2 tbsp" },
+        { "name": "Butter", "amount": "3 tbsp" },
+        { "name": "Tomatoes", "amount": "3 medium" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Pav buns", "amount": "8" },
+        { "name": "Lemon juice", "amount": "2 tbsp" },
+        { "name": "Coriander leaves", "amount": "for garnish" }
+      ],
+      "instructions": "Boil vegetables and potatoes. Mash them. Sauté onions, add tomatoes and spices. Mix with mashed vegetables. Toast pav buns with butter. Serve bhaji with pav, topped with butter and coriander."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Bisi Bele Bath",
+      "calories": 420,
+      "nutritional_values": {
+        "protein": 14,
+        "carbohydrates": 72,
+        "fat": 9,
+        "fiber": 12
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Toor dal", "amount": "1/2 cup" },
+        { "name": "Mixed vegetables", "amount": "1 cup" },
+        { "name": "Tamarind paste", "amount": "1 tbsp" },
+        { "name": "Bisi bele bath powder", "amount": "2 tbsp" },
+        { "name": "Jaggery", "amount": "1 tsp" },
+        { "name": "Ghee", "amount": "2 tbsp" },
+        { "name": "Cashews", "amount": "10" },
+        { "name": "Curry leaves", "amount": "1 sprig" }
+      ],
+      "instructions": "Cook rice and dal together. Sauté vegetables, add tamarind, jaggery, and spice powder. Mix with rice-dal mixture. Temper with ghee, cashews, and curry leaves."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Paneer Butter Masala with Naan",
+      "calories": 650,
+      "nutritional_values": {
+        "protein": 26,
+        "carbohydrates": 58,
+        "fat": 34,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Paneer", "amount": "250g" },
+        { "name": "Tomatoes", "amount": "4 medium" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Cashews", "amount": "15" },
+        { "name": "Butter", "amount": "3 tbsp" },
+        { "name": "Cream", "amount": "1/4 cup" },
+        { "name": "Garam masala", "amount": "1 tsp" },
+        { "name": "Kasuri methi", "amount": "1 tbsp" },
+        { "name": "Naan", "amount": "4" }
+      ],
+      "instructions": "Make tomato-onion-cashew gravy. Add butter, spices, and cream. Add paneer cubes and simmer. Garnish with kasuri methi. Serve hot with butter naan."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Lemon Rice (Elumichai Saadham)",
+      "calories": 340,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 62,
+        "fat": 8,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Lemon juice", "amount": "3 tbsp" },
+        { "name": "Peanuts", "amount": "1/4 cup" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Turmeric powder", "amount": "1/2 tsp" },
+        { "name": "Green chilies", "amount": "3" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Oil", "amount": "2 tbsp" }
+      ],
+      "instructions": "Cook rice and let it cool. Temper mustard seeds, add peanuts, chilies, and curry leaves. Add turmeric and mix with rice. Add lemon juice and salt. Mix well."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Quinoa Bowl with Roasted Vegetables",
+      "calories": 390,
+      "nutritional_values": {
+        "protein": 14,
+        "carbohydrates": 52,
+        "fat": 16,
+        "fiber": 12
+      },
+      "ingredients": [
+        { "name": "Quinoa", "amount": "1 cup" },
+        { "name": "Mixed vegetables", "amount": "2 cups" },
+        { "name": "Olive oil", "amount": "2 tbsp" },
+        { "name": "Lemon juice", "amount": "1 tbsp" },
+        { "name": "Fresh herbs", "amount": "2 tbsp" },
+        { "name": "Feta cheese", "amount": "1/4 cup" },
+        { "name": "Mixed seeds", "amount": "2 tbsp" }
+      ],
+      "instructions": "Cook quinoa. Roast vegetables with olive oil. Mix quinoa and vegetables. Add lemon juice and herbs. Top with feta cheese and mixed seeds."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Tamarind Rice (Puliyogare)",
+      "calories": 360,
+      "nutritional_values": {
+        "protein": 7,
+        "carbohydrates": 65,
+        "fat": 10,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Tamarind paste", "amount": "2 tbsp" },
+        { "name": "Peanuts", "amount": "1/4 cup" },
+        { "name": "Sesame oil", "amount": "3 tbsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Chana dal", "amount": "1 tbsp" },
+        { "name": "Asafoetida", "amount": "1/4 tsp" },
+        { "name": "Puliyogare mix", "amount": "2 tbsp" }
+      ],
+      "instructions": "Cook rice and let it cool. Prepare tamarind extract with jaggery and spices. Temper mustard seeds, add dals, peanuts, and curry leaves. Mix with rice and tamarind extract."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Malabar Fish Curry with Steamed Rice",
+      "calories": 520,
+      "nutritional_values": {
+        "protein": 32,
+        "carbohydrates": 58,
+        "fat": 18,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Fish (kingfish/pomfret)", "amount": "500g" },
+        { "name": "Coconut milk", "amount": "1 cup" },
+        { "name": "Tamarind paste", "amount": "1 tbsp" },
+        { "name": "Tomatoes", "amount": "2 medium" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Green chilies", "amount": "4" },
+        { "name": "Curry leaves", "amount": "2 sprigs" },
+        { "name": "Coconut oil", "amount": "2 tbsp" },
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Malabar spice mix", "amount": "2 tbsp" }
+      ],
+      "instructions": "Marinate fish with turmeric and salt. Prepare gravy with tomatoes, tamarind, and coconut milk. Add spices and fish pieces. Simmer until cooked. Serve with steamed rice."
+    },
+  
+    {
+      "meal_type": "lunch",
+      "name": "Vegetable Fried Rice",
+      "calories": 500,
+      "nutritional_values": {
+        "protein": 12,
+        "carbohydrates": 60,
+        "fat": 18,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Cooked rice", "amount": "1 cup" },
+        { "name": "Mixed vegetables", "amount": "1 cup" },
+        { "name": "Soy sauce", "amount": "2 tbsp" }
+      ],
+      "instructions": "Stir-fry vegetables, add rice and soy sauce. Cook for 5 minutes."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Grilled Chicken and Quinoa Salad",
+      "calories": 650,
+      "nutritional_values": {
+        "protein": 45,
+        "carbohydrates": 65,
+        "fat": 25,
+        "fiber": 12
+      },
+      "ingredients": [
+        {"name": "Chicken breast", "amount": "150g"},
+        {"name": "Quinoa", "amount": "100g"},
+        {"name": "Mixed greens", "amount": "100g"},
+        {"name": "Cherry tomatoes", "amount": "50g"},
+        {"name": "Cucumber", "amount": "50g"},
+        {"name": "Avocado", "amount": "50g"},
+        {"name": "Olive oil", "amount": "15ml"},
+        {"name": "Lemon juice", "amount": "10ml"},
+        {"name": "Salt and pepper", "amount": "to taste"}
+      ],
+      "instructions": "Cook quinoa according to package instructions. Grill chicken breast with salt and pepper. Combine mixed greens, cherry tomatoes, cucumber, and avocado in a bowl. Add cooked quinoa and sliced grilled chicken. Dress with olive oil and lemon juice."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Keerai Sadam",
+      "calories": 400,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 50,
+        "fat": 12,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Cooked rice", "amount": "1 cup" },
+        { "name": "Spinach (keerai)", "amount": "1 cup" },
+        { "name": "Garlic", "amount": "3 cloves" }
+      ],
+      "instructions": "Cook spinach with garlic and mix with hot rice, season with ghee."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Paruppu Rasam",
+      "calories": 200,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 25,
+        "fat": 5,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Toor dal", "amount": "1/4 cup" },
+        { "name": "Tomato", "amount": "1" },
+        { "name": "Tamarind extract", "amount": "2 tbsp" },
+        { "name": "Rasam powder", "amount": "1 tsp" }
+      ],
+      "instructions": "Boil dal, tomato, tamarind with rasam powder, season with mustard and curry leaves."
+    },
+    {
+      "meal_type": "lunch",
+      "name": "Mediterranean Lentil Bowl",
+      "calories": 550,
+      "nutritional_values": {
+        "protein": 25,
+        "carbohydrates": 80,
+        "fat": 15,
+        "fiber": 18
+      },
+      "ingredients": [
+        {"name": "Cooked lentils", "amount": "150g"},
+        {"name": "Cherry tomatoes", "amount": "100g"},
+        {"name": "Cucumber", "amount": "100g"},
+        {"name": "Red onion", "amount": "30g"},
+        {"name": "Feta cheese", "amount": "30g"},
+        {"name": "Olives", "amount": "30g"},
+        {"name": "Olive oil", "amount": "10ml"},
+        {"name": "Lemon juice", "amount": "10ml"},
+        {"name": "Fresh herbs (parsley, mint)", "amount": "10g"},
+        {"name": "Salt and pepper", "amount": "to taste"}
+      ],
+      "instructions": "Combine lentils, chopped tomatoes, cucumber, and red onion in a bowl. Add crumbled feta and olives. Dress with olive oil, lemon juice, chopped herbs, salt, and pepper. Mix well."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Chapati with Dal Tadka",
+      "calories": 400,
+      "nutritional_values": {
+        "protein": 14,
+        "carbohydrates": 50,
+        "fat": 10,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Whole wheat flour", "amount": "1/2 cup" },
+        { "name": "Cooked dal", "amount": "1 cup" },
+        { "name": "Ghee", "amount": "1 tsp" }
+      ],
+      "instructions": "Make chapatis from flour dough. Serve with ghee-topped dal tadka."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Rasam with Steamed Rice",
+      "calories": 320,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 65,
+        "fat": 4,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Tomatoes", "amount": "3 medium" },
+        { "name": "Tamarind paste", "amount": "1 tbsp" },
+        { "name": "Toor dal", "amount": "2 tbsp" },
+        { "name": "Rasam powder", "amount": "1 tbsp" },
+        { "name": "Garlic", "amount": "4 cloves" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Cumin seeds", "amount": "1 tsp" },
+        { "name": "Ghee", "amount": "1 tbsp" },
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Coriander leaves", "amount": "2 tbsp" }
+      ],
+      "instructions": "Cook toor dal. Boil tamarind water with tomatoes. Add rasam powder and cooked dal. Temper with mustard, cumin, garlic and curry leaves in ghee. Serve with steamed rice."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Coconut Vegetable Stew with Appam",
+      "calories": 380,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 54,
+        "fat": 16,
+        "fiber": 7
+      },
+      "ingredients": [
+        { "name": "Mixed vegetables", "amount": "2 cups" },
+        { "name": "Coconut milk", "amount": "1 cup" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Black pepper", "amount": "1 tsp" },
+        { "name": "Cloves", "amount": "3" },
+        { "name": "Cinnamon", "amount": "1 inch piece" },
+        { "name": "Cardamom", "amount": "2 pods" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Coconut oil", "amount": "1 tbsp" },
+        { "name": "Rice flour", "amount": "1 cup (for appam)" },
+        { "name": "Coconut", "amount": "1/2 cup grated (for appam)" }
+      ],
+      "instructions": "Sauté spices in coconut oil. Add vegetables and sauté. Pour coconut milk and simmer. Season with salt and pepper. Prepare appams with fermented rice flour and coconut batter. Serve stew with appams."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Curd Rice (Thayir Sadam)",
+      "calories": 290,
+      "nutritional_values": {
+        "protein": 10,
+        "carbohydrates": 48,
+        "fat": 7,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Yogurt", "amount": "1 cup" },
+        { "name": "Milk", "amount": "1/4 cup" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Ginger", "amount": "1/2 inch piece" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Pomegranate seeds", "amount": "2 tbsp" },
+        { "name": "Coriander leaves", "amount": "2 tbsp" },
+        { "name": "Oil", "amount": "1 tbsp" }
+      ],
+      "instructions": "Cook rice and mash slightly. Mix with yogurt and milk. Temper mustard seeds, green chilies, ginger and curry leaves in oil. Add to rice. Garnish with pomegranate seeds and coriander."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Kadala Curry with Puttu",
+      "calories": 450,
+      "nutritional_values": {
+        "protein": 18,
+        "carbohydrates": 70,
+        "fat": 10,
+        "fiber": 14
+      },
+      "ingredients": [
+        { "name": "Black chickpeas", "amount": "1 cup" },
+        { "name": "Coconut", "amount": "1/2 cup grated" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Tomatoes", "amount": "2 medium" },
+        { "name": "Green chilies", "amount": "3" },
+        { "name": "Ginger-garlic paste", "amount": "1 tbsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Coriander powder", "amount": "1 tbsp" },
+        { "name": "Garam masala", "amount": "1 tsp" },
+        { "name": "Coconut oil", "amount": "2 tbsp" },
+        { "name": "Rice flour", "amount": "2 cups (for puttu)" }
+      ],
+      "instructions": "Pressure cook chickpeas. Sauté onions, ginger-garlic, tomatoes, and spices. Add chickpeas and water. Simmer. Meanwhile, prepare puttu by steaming rice flour and coconut in a puttu maker. Serve curry with puttu."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Paruppu Urundai Kuzhambu (Lentil Ball Curry)",
+      "calories": 410,
+      "nutritional_values": {
+        "protein": 16,
+        "carbohydrates": 58,
+        "fat": 12,
+        "fiber": 10
+      },
+      "ingredients": [
+        { "name": "Toor dal", "amount": "1 cup" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Tomatoes", "amount": "2 medium" },
+        { "name": "Coconut", "amount": "1/4 cup grated" },
+        { "name": "Tamarind paste", "amount": "1 tbsp" },
+        { "name": "Sambar powder", "amount": "2 tbsp" },
+        { "name": "Curry leaves", "amount": "2 sprigs" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Rice", "amount": "1 cup" },
+        { "name": "Oil", "amount": "2 tbsp" }
+      ],
+      "instructions": "Cook dal partially. Mix with spices and coconut, form balls. Prepare tamarind gravy with onions, tomatoes, and spices. Add lentil balls and simmer. Serve with steamed rice."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Kozhi Varutha Curry (Chicken Fry Curry) with Parotta",
+      "calories": 580,
+      "nutritional_values": {
+        "protein": 35,
+        "carbohydrates": 50,
+        "fat": 26,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Chicken", "amount": "500g" },
+        { "name": "Onion", "amount": "3 medium" },
+        { "name": "Tomatoes", "amount": "2 medium" },
+        { "name": "Ginger-garlic paste", "amount": "2 tbsp" },
+        { "name": "Green chilies", "amount": "4" },
+        { "name": "Curry leaves", "amount": "2 sprigs" },
+        { "name": "Coriander powder", "amount": "1 tbsp" },
+        { "name": "Red chili powder", "amount": "1 tbsp" },
+        { "name": "Garam masala", "amount": "1 tsp" },
+        { "name": "Coconut oil", "amount": "3 tbsp" },
+        { "name": "All-purpose flour", "amount": "2 cups (for parotta)" },
+        { "name": "Ghee", "amount": "2 tbsp (for parotta)" }
+      ],
+      "instructions": "Marinate chicken with spices. Sauté onions, ginger-garlic paste, and tomatoes. Add chicken and cook until done. Meanwhile, prepare layered parottas. Cook on a hot griddle. Serve curry with parottas."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Mysore Masala Dosa",
+      "calories": 360,
+      "nutritional_values": {
+        "protein": 10,
+        "carbohydrates": 52,
+        "fat": 14,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "2 cups" },
+        { "name": "Urad dal", "amount": "1/2 cup" },
+        { "name": "Chana dal", "amount": "2 tbsp" },
+        { "name": "Red chili paste", "amount": "3 tbsp" },
+        { "name": "Garlic", "amount": "5 cloves" },
+        { "name": "Coriander seeds", "amount": "1 tbsp" },
+        { "name": "Potatoes", "amount": "3 medium" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Oil", "amount": "3 tbsp" }
+      ],
+      "instructions": "Ferment rice and dal batter. Make red chili garlic paste. Prepare potato filling. Spread batter on hot griddle, apply red paste, add potato filling, fold and serve with coconut chutney and sambar."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Kathirikai Poriyal (Eggplant Stir-fry) with Rice",
+      "calories": 340,
+      "nutritional_values": {
+        "protein": 7,
+        "carbohydrates": 63,
+        "fat": 8,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Eggplant", "amount": "2 medium" },
+        { "name": "Onion", "amount": "1 medium" },
+        { "name": "Tomato", "amount": "1 medium" },
+        { "name": "Green chilies", "amount": "3" },
+        { "name": "Turmeric powder", "amount": "1/2 tsp" },
+        { "name": "Sambar powder", "amount": "1 tbsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Oil", "amount": "2 tbsp" },
+        { "name": "Rice", "amount": "1 cup" }
+      ],
+      "instructions": "Dice eggplant. Temper mustard seeds, add onions, green chilies, and curry leaves. Add eggplant, spices, and cook until tender. Serve with steamed rice and papad."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Poricha Kootu with Rice",
+      "calories": 320,
+      "nutritional_values": {
+        "protein": 12,
+        "carbohydrates": 54,
+        "fat": 8,
+        "fiber": 8
+      },
+      "ingredients": [
+        { "name": "Mixed vegetables", "amount": "2 cups" },
+        { "name": "Moong dal", "amount": "1/2 cup" },
+        { "name": "Chana dal", "amount": "2 tbsp" },
+        { "name": "Coconut", "amount": "1/2 cup grated" },
+        { "name": "Green chilies", "amount": "3" },
+        { "name": "Cumin seeds", "amount": "1 tsp" },
+        { "name": "Turmeric powder", "amount": "1/2 tsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Ghee", "amount": "1 tbsp" },
+        { "name": "Rice", "amount": "1 cup" }
+      ],
+      "instructions": "Cook dal and vegetables with turmeric. Grind coconut, chilies, and cumin to a paste. Mix with cooked vegetables and dal. Temper with mustard seeds and curry leaves in ghee. Serve with rice."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Meen Pollichathu (Fish in Banana Leaf) with Matta Rice",
+      "calories": 490,
+      "nutritional_values": {
+        "protein": 28,
+        "carbohydrates": 55,
+        "fat": 18,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Fish (pearl spot/karimeen)", "amount": "500g" },
+        { "name": "Onion", "amount": "2 medium" },
+        { "name": "Tomato", "amount": "1 medium" },
+        { "name": "Ginger-garlic paste", "amount": "1 tbsp" },
+        { "name": "Green chilies", "amount": "4" },
+        { "name": "Curry leaves", "amount": "2 sprigs" },
+        { "name": "Coconut oil", "amount": "3 tbsp" },
+        { "name": "Kerala spice mix", "amount": "2 tbsp" },
+        { "name": "Banana leaves", "amount": "4 pieces" },
+        { "name": "Matta rice", "amount": "1 cup" }
+      ],
+      "instructions": "Marinate fish with spices. Sauté onions, ginger-garlic paste, tomatoes, and green chilies. Mix with fish. Wrap in banana leaves and grill. Serve with red matta rice."
+    },
+  
+    {
+      "meal_type": "dinner",
+      "name": "Paneer Butter Masala with Jeera Rice",
+      "calories": 650,
+      "nutritional_values": {
+        "protein": 20,
+        "carbohydrates": 55,
+        "fat": 35,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Paneer cubes", "amount": "100g" },
+        { "name": "Butter", "amount": "1 tbsp" },
+        { "name": "Tomato puree", "amount": "1/2 cup" },
+        { "name": "Cumin rice", "amount": "1 cup cooked" }
+      ],
+      "instructions": "Cook paneer in buttery tomato gravy. Serve with jeera-flavored rice."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Idiyappam with Coconut Milk",
+      "calories": 280,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 50,
+        "fat": 7,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Idiyappam (Rice noodles)", "amount": "1 plate" },
+        { "name": "Coconut milk", "amount": "1/2 cup" }
+      ],
+      "instructions": "Serve soft idiyappam with fresh coconut milk sweetened lightly."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Paniyaram",
+      "calories": 250,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 35,
+        "fat": 8,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Idli dosa batter", "amount": "1 cup" },
+        { "name": "Mustard seeds", "amount": "1 tsp" },
+        { "name": "Onion", "amount": "1/4 cup" }
+      ],
+      "instructions": "Pour batter in paniyaram pan and cook till golden brown on both sides."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Baked Salmon with Roasted Vegetables",
+      "calories": 550,
+      "nutritional_values": {
+        "protein": 35,
+        "carbohydrates": 40,
+        "fat": 25,
+        "fiber": 10
+      },
+      "ingredients": [
+        {"name": "Salmon fillet", "amount": "150g"},
+        {"name": "Sweet potato", "amount": "150g"},
+        {"name": "Broccoli", "amount": "100g"},
+        {"name": "Bell pepper", "amount": "50g"},
+        {"name": "Olive oil", "amount": "15ml"},
+        {"name": "Garlic", "amount": "2 cloves"},
+        {"name": "Lemon", "amount": "1/2"},
+        {"name": "Fresh herbs (dill, parsley)", "amount": "10g"},
+        {"name": "Salt and pepper", "amount": "to taste"}
+      ],
+      "instructions": "Preheat oven to 200°C. Cut sweet potato, broccoli, and bell pepper into chunks. Toss vegetables with olive oil, minced garlic, salt, and pepper. Spread on a baking sheet and roast for 20 minutes. Season salmon with salt, pepper, and herbs. Place salmon on a separate baking sheet, squeeze lemon juice over it, and bake for 12-15 minutes until cooked through."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Baked Salmon with Vegetables",
+      "calories": 550,
+      "nutritional_values": {
+        "protein": 35,
+        "carbohydrates": 15,
+        "fat": 30,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Salmon fillet", "amount": "150g" },
+        { "name": "Broccoli", "amount": "1 cup" },
+        { "name": "Carrots", "amount": "1/2 cup" },
+        { "name": "Olive oil", "amount": "1 tbsp" }
+      ],
+      "instructions": "Bake salmon and vegetables at 180°C for 20 minutes."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Paneer Tikka Wrap",
+      "calories": 480,
+      "nutritional_values": {
+        "protein": 20,
+        "carbohydrates": 40,
+        "fat": 22,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Paneer cubes", "amount": "100g" },
+        { "name": "Whole wheat wrap", "amount": "1" },
+        { "name": "Capsicum", "amount": "1/2 cup" },
+        { "name": "Onions", "amount": "1/2 cup" }
+      ],
+      "instructions": "Grill paneer with capsicum and onion, wrap in roti."
+    },
+    {
+      "meal_type": "dinner",
+      "name": "Turkey Chili with Brown Rice",
+      "calories": 600,
+      "nutritional_values": {
+        "protein": 40,
+        "carbohydrates": 70,
+        "fat": 15,
+        "fiber": 15
+      },
+      "ingredients": [
+        {"name": "Ground turkey", "amount": "150g"},
+        {"name": "Brown rice", "amount": "100g"},
+        {"name": "Kidney beans", "amount": "100g"},
+        {"name": "Diced tomatoes", "amount": "150g"},
+        {"name": "Onion", "amount": "50g"},
+        {"name": "Bell pepper", "amount": "50g"},
+        {"name": "Garlic", "amount": "2 cloves"},
+        {"name": "Chili powder", "amount": "5g"},
+        {"name": "Cumin", "amount": "3g"},
+        {"name": "Paprika", "amount": "2g"},
+        {"name": "Olive oil", "amount": "10ml"},
+        {"name": "Salt and pepper", "amount": "to taste"}
+      ],
+      "instructions": "Cook brown rice according to package instructions. In a pot, heat olive oil and sauté chopped onion, bell pepper, and garlic until soft. Add ground turkey and cook until browned. Add chili powder, cumin, paprika, salt, and pepper. Stir in diced tomatoes and kidney beans. Simmer for 20 minutes. Serve chili over brown rice."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Sundal",
+      "calories": 180,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 20,
+        "fat": 5,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Boiled chickpeas", "amount": "1 cup" },
+        { "name": "Coconut", "amount": "2 tbsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" }
+      ],
+      "instructions": "Mix boiled chickpeas with grated coconut and season with mustard seeds."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Quinoa Idli Bites",
+      "calories": 140,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 22,
+        "fat": 3,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Rice", "amount": "1/2 cup" },
+        { "name": "Quinoa", "amount": "1/2 cup" },
+        { "name": "Urad dal", "amount": "1/4 cup" },
+        { "name": "Fenugreek seeds", "amount": "1/2 tsp" },
+        { "name": "Spinach", "amount": "1/2 cup chopped" },
+        { "name": "Carrots", "amount": "1/4 cup grated" },
+        { "name": "Chia seeds", "amount": "1 tbsp" }
+      ],
+      "instructions": "Soak rice, quinoa, urad dal, and fenugreek seeds. Grind to a batter and ferment. Mix in vegetables and chia seeds. Steam in mini muffin trays for bite-sized idlis. Serve with avocado chutney."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Baked Masala Vadai Crisps",
+      "calories": 160,
+      "nutritional_values": {
+        "protein": 9,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Chana dal", "amount": "1 cup" },
+        { "name": "Yellow split peas", "amount": "1/4 cup" },
+        { "name": "Kale", "amount": "1/2 cup chopped" },
+        { "name": "Red bell pepper", "amount": "1/4 cup diced" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Cumin seeds", "amount": "1 tsp" },
+        { "name": "Olive oil", "amount": "2 tbsp" }
+      ],
+      "instructions": "Soak dals, grind coarsely with minimal water. Mix with finely chopped vegetables and spices. Spread thinly on a baking sheet. Brush with olive oil. Bake at 375°F until crisp. Break into pieces for a healthy snack."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Air-Fried Banana Blossom Vada",
+      "calories": 170,
+      "nutritional_values": {
+        "protein": 7,
+        "carbohydrates": 24,
+        "fat": 5,
+        "fiber": 6
+      },
+      "ingredients": [
+        { "name": "Banana blossom", "amount": "1 cup chopped" },
+        { "name": "Chickpea flour", "amount": "1/2 cup" },
+        { "name": "Oats", "amount": "1/4 cup" },
+        { "name": "Onion", "amount": "1 small" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Olive oil spray", "amount": "as needed" }
+      ],
+      "instructions": "Boil and squeeze out water from banana blossom. Mix with chickpea flour, ground oats, and chopped vegetables. Form into patties. Spray with olive oil and air-fry at 350°F for 15 minutes, turning once."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Ragi Masala Cookies",
+      "calories": 130,
+      "nutritional_values": {
+        "protein": 4,
+        "carbohydrates": 19,
+        "fat": 5,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Ragi flour", "amount": "1 cup" },
+        { "name": "Whole wheat flour", "amount": "1/4 cup" },
+        { "name": "Onion", "amount": "1 small finely chopped" },
+        { "name": "Mixed herbs", "amount": "1 tbsp" },
+        { "name": "Flaxseed powder", "amount": "1 tbsp" },
+        { "name": "Olive oil", "amount": "3 tbsp" },
+        { "name": "Chili flakes", "amount": "1 tsp" }
+      ],
+      "instructions": "Mix flours, herbs, spices, and flaxseed. Add chopped onion and olive oil. Add water to form a stiff dough. Roll out and cut into rounds. Bake at 350°F for 15 minutes until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Greek Yogurt Mysore Pak",
+      "calories": 150,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 22,
+        "fat": 5,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Chickpea flour", "amount": "1 cup" },
+        { "name": "Greek yogurt", "amount": "1/4 cup" },
+        { "name": "Coconut sugar", "amount": "3/4 cup" },
+        { "name": "Ghee", "amount": "1/4 cup" },
+        { "name": "Cardamom powder", "amount": "1/2 tsp" },
+        { "name": "Pistachios", "amount": "2 tbsp chopped" }
+      ],
+      "instructions": "Roast chickpea flour. Heat ghee and coconut sugar to make syrup. Mix in roasted flour, Greek yogurt, and cardamom. Pour into a greased tray. Sprinkle pistachios. Cut when set but still warm."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Cauliflower Bonda Bites with Pesto Dip",
+      "calories": 180,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 18,
+        "fat": 10,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Cauliflower", "amount": "1 cup grated" },
+        { "name": "Chickpea flour", "amount": "1/2 cup" },
+        { "name": "Almond flour", "amount": "1/4 cup" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Basil leaves", "amount": "1 cup (for pesto)" },
+        { "name": "Pine nuts", "amount": "2 tbsp (for pesto)" },
+        { "name": "Olive oil", "amount": "3 tbsp" }
+      ],
+      "instructions": "Mix grated cauliflower, flours, and spices. Form into small balls. Shallow fry in olive oil. For pesto, blend basil, pine nuts, oil, and salt. Serve bondas with pesto dip."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Millet Murukku Twists",
+      "calories": 140,
+      "nutritional_values": {
+        "protein": 4,
+        "carbohydrates": 20,
+        "fat": 6,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Foxtail millet flour", "amount": "3/4 cup" },
+        { "name": "Rice flour", "amount": "1/4 cup" },
+        { "name": "Flaxseed powder", "amount": "1 tbsp" },
+        { "name": "Pumpkin seeds", "amount": "1 tbsp crushed" },
+        { "name": "Sesame seeds", "amount": "1 tbsp" },
+        { "name": "Cumin powder", "amount": "1 tsp" },
+        { "name": "Cold-pressed oil", "amount": "for frying" }
+      ],
+      "instructions": "Mix flours, seeds, and spices. Add hot butter and water to form dough. Use murukku press to make twists. Air-fry at 350°F for 12 minutes or shallow fry in oil."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Beetroot Thattai Crisps",
+      "calories": 140,
+      "nutritional_values": {
+        "protein": 3,
+        "carbohydrates": 18,
+        "fat": 6,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Beetroot juice", "amount": "1/4 cup" },
+        { "name": "Roasted dals", "amount": "3 tbsp" },
+        { "name": "Black pepper", "amount": "1 tsp" },
+        { "name": "Chia seeds", "amount": "1 tbsp" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Cold-pressed oil", "amount": "2 tbsp" }
+      ],
+      "instructions": "Mix rice flour with beetroot juice for color. Add roasted dals, spices, and seeds. Make firm dough. Roll out thinly. Cut into shapes. Bake at 375°F until crisp or shallow fry in oil."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Coconut Ladoo Energy Balls",
+      "calories": 110,
+      "nutritional_values": {
+        "protein": 3,
+        "carbohydrates": 14,
+        "fat": 5,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Desiccated coconut", "amount": "1 cup" },
+        { "name": "Dates", "amount": "1/2 cup" },
+        { "name": "Almonds", "amount": "1/4 cup" },
+        { "name": "Chia seeds", "amount": "1 tbsp" },
+        { "name": "Cardamom powder", "amount": "1/2 tsp" },
+        { "name": "Vanilla extract", "amount": "1/2 tsp" },
+        { "name": "Cacao nibs", "amount": "2 tbsp" }
+      ],
+      "instructions": "Blend coconut, dates, and almonds in a food processor. Add chia seeds, cardamom, and vanilla. Form into balls. Roll in cacao nibs or extra coconut. Refrigerate for 30 minutes before serving."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Spiced Jackfruit Chips",
+      "calories": 120,
+      "nutritional_values": {
+        "protein": 2,
+        "carbohydrates": 24,
+        "fat": 3,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Raw jackfruit", "amount": "2 cups sliced" },
+        { "name": "Turmeric powder", "amount": "1/2 tsp" },
+        { "name": "Red chili powder", "amount": "1/2 tsp" },
+        { "name": "Cumin powder", "amount": "1/2 tsp" },
+        { "name": "Chaat masala", "amount": "1 tsp" },
+        { "name": "Olive oil", "amount": "1 tbsp" },
+        { "name": "Sea salt", "amount": "to taste" }
+      ],
+      "instructions": "Slice jackfruit thinly. Toss with spices and oil. Arrange on a baking sheet. Bake at 300°F for 30 minutes or until crispy, turning halfway. Alternative: dehydrate for 4-6 hours."
+    },
+
+    {
+      "meal_type": "snack",
+      "name": "Bonda",
+      "calories": 180,
+      "nutritional_values": {
+        "protein": 4,
+        "carbohydrates": 22,
+        "fat": 9,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Gram flour (Besan)", "amount": "1 cup" },
+        { "name": "Potatoes", "amount": "2 medium" },
+        { "name": "Onion", "amount": "1 small" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Ginger", "amount": "1/2 inch piece" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Mustard seeds", "amount": "1/2 tsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Boil and mash potatoes. Temper mustard seeds and add onions, chilies, ginger, and curry leaves. Mix with potatoes. Make gram flour batter with spices. Dip potato balls in batter and deep fry until golden."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Mysore Bonda (Goli Baje)",
+      "calories": 160,
+      "nutritional_values": {
+        "protein": 3,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "All-purpose flour", "amount": "1 cup" },
+        { "name": "Yogurt", "amount": "1/4 cup" },
+        { "name": "Onion", "amount": "1 small" },
+        { "name": "Green chilies", "amount": "2" },
+        { "name": "Ginger", "amount": "1/2 inch piece" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Baking soda", "amount": "1/4 tsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Mix flour, yogurt, chopped onions, chilies, ginger, and curry leaves. Add baking soda. Let the batter rest for 30 minutes. Drop spoonfuls into hot oil and fry until golden brown."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Nei Appam",
+      "calories": 150,
+      "nutritional_values": {
+        "protein": 2,
+        "carbohydrates": 24,
+        "fat": 6,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Jaggery", "amount": "3/4 cup" },
+        { "name": "Banana", "amount": "1 ripe" },
+        { "name": "Cardamom powder", "amount": "1/2 tsp" },
+        { "name": "Coconut pieces", "amount": "2 tbsp" },
+        { "name": "Ghee", "amount": "for frying" }
+      ],
+      "instructions": "Melt jaggery in water and strain. Mix rice flour, mashed banana, cardamom, and coconut pieces with jaggery syrup. Make a thick batter. Heat appam pan, add ghee in each mold. Pour batter and cook until golden."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Thattai",
+      "calories": 130,
+      "nutritional_values": {
+        "protein": 3,
+        "carbohydrates": 16,
+        "fat": 7,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Urad dal", "amount": "2 tbsp" },
+        { "name": "Chana dal", "amount": "2 tbsp" },
+        { "name": "Red chilies", "amount": "3" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Asafoetida", "amount": "1/4 tsp" },
+        { "name": "Sesame seeds", "amount": "1 tbsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Roast dals until golden. Mix rice flour with roasted dals, crushed red chilies, curry leaves, asafoetida, and sesame seeds. Add water to make firm dough. Flatten into small discs and deep fry until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Kara Sev",
+      "calories": 140,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 14,
+        "fat": 8,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Gram flour (Besan)", "amount": "1 cup" },
+        { "name": "Rice flour", "amount": "2 tbsp" },
+        { "name": "Red chili powder", "amount": "1 tsp" },
+        { "name": "Asafoetida", "amount": "1/4 tsp" },
+        { "name": "Cumin powder", "amount": "1/2 tsp" },
+        { "name": "Salt", "amount": "to taste" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Mix gram flour, rice flour, and spices. Add water to make stiff dough. Fill in a chakli/sev press with a small hole disc. Press directly into hot oil and fry until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Ribbon Pakoda",
+      "calories": 160,
+      "nutritional_values": {
+        "protein": 4,
+        "carbohydrates": 17,
+        "fat": 9,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Gram flour (Besan)", "amount": "1/2 cup" },
+        { "name": "Butter", "amount": "2 tbsp" },
+        { "name": "Red chili powder", "amount": "1 tsp" },
+        { "name": "Asafoetida", "amount": "1/4 tsp" },
+        { "name": "Sesame seeds", "amount": "1 tbsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Mix flours, butter, and spices. Add water to make stiff dough. Fill in a chakli press with a ribbon disc. Press into hot oil in a ribbon shape and fry until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Kozhukattai (Sweet)",
+      "calories": 170,
+      "nutritional_values": {
+        "protein": 2,
+        "carbohydrates": 31,
+        "fat": 5,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Grated coconut", "amount": "1 cup" },
+        { "name": "Jaggery", "amount": "3/4 cup" },
+        { "name": "Cardamom powder", "amount": "1/2 tsp" },
+        { "name": "Ghee", "amount": "1 tbsp" }
+      ],
+      "instructions": "Mix rice flour with hot water to make soft dough. Cook coconut and jaggery until thick. Add cardamom. Make small dough balls, flatten, add filling, and seal to form dumplings. Steam for 10-12 minutes."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Thengai Bakshanam",
+      "calories": 120,
+      "nutritional_values": {
+        "protein": 2,
+        "carbohydrates": 15,
+        "fat": 6,
+        "fiber": 2
+      },
+      "ingredients": [
+        { "name": "Grated coconut", "amount": "1 cup" },
+        { "name": "Jaggery", "amount": "1/2 cup" },
+        { "name": "Cardamom powder", "amount": "1/2 tsp" },
+        { "name": "Rice flour", "amount": "2 tbsp" },
+        { "name": "Ghee", "amount": "1 tbsp" }
+      ],
+      "instructions": "Mix grated coconut with crushed jaggery. Cook until jaggery melts. Add cardamom powder and rice flour. Cook until mixture thickens. Cool and form into small balls."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Thenkuzhal",
+      "calories": 150,
+      "nutritional_values": {
+        "protein": 3,
+        "carbohydrates": 18,
+        "fat": 8,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Gram flour (Besan)", "amount": "2 tbsp" },
+        { "name": "Butter", "amount": "2 tbsp" },
+        { "name": "Cumin seeds", "amount": "1 tsp" },
+        { "name": "Asafoetida", "amount": "1/4 tsp" },
+        { "name": "Salt", "amount": "to taste" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Mix flours, butter, and spices. Add water to make stiff dough. Fill in a chakli/murukku press with a star disc. Press into hot oil in coil shape and fry until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Achu Murukku (Rose Cookies)",
+      "calories": 140,
+      "nutritional_values": {
+        "protein": 2,
+        "carbohydrates": 19,
+        "fat": 7,
+        "fiber": 0
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "All-purpose flour", "amount": "2 tbsp" },
+        { "name": "Coconut milk", "amount": "1/2 cup" },
+        { "name": "Sugar", "amount": "2 tbsp" },
+        { "name": "Cardamom powder", "amount": "1/4 tsp" },
+        { "name": "Sesame seeds", "amount": "1 tsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Mix flours, sugar, cardamom, and sesame seeds. Add coconut milk to make a flowing batter. Heat the achu murukku mold in oil. Dip in batter and then into hot oil. Fry until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Paruppu Vadai",
+      "calories": 190,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 20,
+        "fat": 9,
+        "fiber": 4
+      },
+      "ingredients": [
+        { "name": "Chana dal", "amount": "1 cup" },
+        { "name": "Onion", "amount": "1 small" },
+        { "name": "Green chilies", "amount": "3" },
+        { "name": "Ginger", "amount": "1 inch piece" },
+        { "name": "Curry leaves", "amount": "1 sprig" },
+        { "name": "Fennel seeds", "amount": "1 tsp" },
+        { "name": "Oil", "amount": "for deep frying" }
+      ],
+      "instructions": "Soak chana dal for 2 hours. Grind coarsely with minimal water. Mix with chopped onions, chilies, ginger, curry leaves, and fennel seeds. Shape into small patties and deep fry until golden."
+    },
+  
+  
+    {
+      "meal_type": "snack",
+      "name": "Murukku",
+      "calories": 220,
+      "nutritional_values": {
+        "protein": 4,
+        "carbohydrates": 25,
+        "fat": 12,
+        "fiber": 1
+      },
+      "ingredients": [
+        { "name": "Rice flour", "amount": "1 cup" },
+        { "name": "Urad dal flour", "amount": "2 tbsp" },
+        { "name": "Butter", "amount": "1 tbsp" }
+      ],
+      "instructions": "Prepare dough, shape with murukku press and deep fry until crisp."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Masala Peanuts",
+      "calories": 220,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 10,
+        "fat": 18,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Raw peanuts", "amount": "1/2 cup" },
+        { "name": "Besan (Gram flour)", "amount": "2 tbsp" },
+        { "name": "Spices", "amount": "1 tsp" }
+      ],
+      "instructions": "Coat peanuts with besan and spices. Deep fry until crispy."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Sundal (Boiled Chickpeas)",
+      "calories": 180,
+      "nutritional_values": {
+        "protein": 10,
+        "carbohydrates": 20,
+        "fat": 5,
+        "fiber": 5
+      },
+      "ingredients": [
+        { "name": "Boiled chickpeas", "amount": "1 cup" },
+        { "name": "Grated coconut", "amount": "2 tbsp" },
+        { "name": "Mustard seeds", "amount": "1 tsp" }
+      ],
+      "instructions": "Temper mustard seeds, mix with boiled chickpeas and coconut."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Apple with Almond Butter",
+      "calories": 200,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 25,
+        "fat": 10,
+        "fiber": 5
+      },
+      "ingredients": [
+        {"name": "Apple", "amount": "1 medium"},
+        {"name": "Almond butter", "amount": "20g"}
+      ],
+      "instructions": "Slice the apple and serve with almond butter for dipping."
+    },
+    
+    {
+      "meal_type": "snack",
+      "name": "Veggie Sticks with Hummus",
+      "calories": 150,
+      "nutritional_values": {
+        "protein": 5,
+        "carbohydrates": 15,
+        "fat": 8,
+        "fiber": 6
+      },
+      "ingredients": [
+        {"name": "Carrot sticks", "amount": "50g"},
+        {"name": "Cucumber sticks", "amount": "50g"},
+        {"name": "Bell pepper strips", "amount": "50g"},
+        {"name": "Hummus", "amount": "50g"}
+      ],
+      "instructions": "Arrange vegetable sticks on a plate and serve with hummus."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Almonds and Raisins",
+      "calories": 200,
+      "nutritional_values": {
+        "protein": 6,
+        "carbohydrates": 18,
+        "fat": 12,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Almonds", "amount": "10 pieces" },
+        { "name": "Raisins", "amount": "1 tbsp" }
+      ],
+      "instructions": "Mix almonds and raisins in a bowl."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Peanut Butter Toast",
+      "calories": 250,
+      "nutritional_values": {
+        "protein": 8,
+        "carbohydrates": 22,
+        "fat": 15,
+        "fiber": 3
+      },
+      "ingredients": [
+        { "name": "Whole wheat bread", "amount": "1 slice" },
+        { "name": "Peanut butter", "amount": "1 tbsp" }
+      ],
+      "instructions": "Spread peanut butter over toasted bread."
+    },
+    {
+      "meal_type": "snack",
+      "name": "Greek Yogurt with Honey",
+      "calories": 180,
+      "nutritional_values": {
+        "protein": 15,
+        "carbohydrates": 20,
+        "fat": 5,
+        "fiber": 0
+      },
+      "ingredients": [
+        {"name": "Greek yogurt", "amount": "150g"},
+        {"name": "Honey", "amount": "10g"},
+        {"name": "Cinnamon", "amount": "1g"}
+      ],
+      "instructions": "Top Greek yogurt with honey and a sprinkle of cinnamon."
+    }
+  ]
+}
